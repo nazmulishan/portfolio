@@ -1,0 +1,289 @@
+Date,Month,Year,Category,Region,Revenue_USDk,Orders,Customers
+2024-01-01,1,2024,Electronics,North America,257.6,649,441
+2024-01-01,1,2024,Electronics,Europe,166.0,469,292
+2024-01-01,1,2024,Electronics,Asia Pacific,118.0,331,184
+2024-01-01,1,2024,Electronics,Latin America,53.3,130,73
+2024-01-01,1,2024,Home & Kitchen,North America,182.8,559,321
+2024-01-01,1,2024,Home & Kitchen,Europe,120.0,348,257
+2024-01-01,1,2024,Home & Kitchen,Asia Pacific,95.7,260,193
+2024-01-01,1,2024,Home & Kitchen,Latin America,32.3,99,60
+2024-01-01,1,2024,Books,North America,72.1,179,109
+2024-01-01,1,2024,Books,Europe,61.9,157,104
+2024-01-01,1,2024,Books,Asia Pacific,42.1,113,74
+2024-01-01,1,2024,Books,Latin America,14.0,34,20
+2024-01-01,1,2024,Sports,North America,125.4,343,210
+2024-01-01,1,2024,Sports,Europe,85.4,235,143
+2024-01-01,1,2024,Sports,Asia Pacific,64.8,191,114
+2024-01-01,1,2024,Sports,Latin America,24.3,68,49
+2024-01-01,1,2024,Beauty,North America,99.9,262,195
+2024-01-01,1,2024,Beauty,Europe,58.0,158,110
+2024-01-01,1,2024,Beauty,Asia Pacific,41.9,116,64
+2024-01-01,1,2024,Beauty,Latin America,19.6,59,39
+2024-01-01,1,2024,Toys,North America,75.7,200,137
+2024-01-01,1,2024,Toys,Europe,48.9,140,89
+2024-01-01,1,2024,Toys,Asia Pacific,37.5,118,76
+2024-01-01,1,2024,Toys,Latin America,14.3,35,24
+2024-02-01,2,2024,Electronics,North America,274.0,875,625
+2024-02-01,2,2024,Electronics,Europe,171.8,465,317
+2024-02-01,2,2024,Electronics,Asia Pacific,112.4,311,181
+2024-02-01,2,2024,Electronics,Latin America,46.5,113,79
+2024-02-01,2,2024,Home & Kitchen,North America,160.3,416,261
+2024-02-01,2,2024,Home & Kitchen,Europe,140.4,346,221
+2024-02-01,2,2024,Home & Kitchen,Asia Pacific,91.5,284,202
+2024-02-01,2,2024,Home & Kitchen,Latin America,40.0,104,65
+2024-02-01,2,2024,Books,North America,74.6,231,171
+2024-02-01,2,2024,Books,Europe,48.8,123,73
+2024-02-01,2,2024,Books,Asia Pacific,35.8,99,66
+2024-02-01,2,2024,Books,Latin America,14.5,34,21
+2024-02-01,2,2024,Sports,North America,110.3,314,232
+2024-02-01,2,2024,Sports,Europe,85.0,239,160
+2024-02-01,2,2024,Sports,Asia Pacific,60.4,147,107
+2024-02-01,2,2024,Sports,Latin America,24.9,77,54
+2024-02-01,2,2024,Beauty,North America,87.3,237,135
+2024-02-01,2,2024,Beauty,Europe,65.7,160,90
+2024-02-01,2,2024,Beauty,Asia Pacific,41.2,104,64
+2024-02-01,2,2024,Beauty,Latin America,15.6,37,21
+2024-02-01,2,2024,Toys,North America,57.8,155,86
+2024-02-01,2,2024,Toys,Europe,51.1,147,85
+2024-02-01,2,2024,Toys,Asia Pacific,30.4,81,50
+2024-02-01,2,2024,Toys,Latin America,11.6,35,26
+2024-03-01,3,2024,Electronics,North America,300.9,838,475
+2024-03-01,3,2024,Electronics,Europe,187.4,501,302
+2024-03-01,3,2024,Electronics,Asia Pacific,167.0,422,234
+2024-03-01,3,2024,Electronics,Latin America,69.0,194,112
+2024-03-01,3,2024,Home & Kitchen,North America,211.7,512,335
+2024-03-01,3,2024,Home & Kitchen,Europe,167.3,517,356
+2024-03-01,3,2024,Home & Kitchen,Asia Pacific,97.0,261,152
+2024-03-01,3,2024,Home & Kitchen,Latin America,45.2,127,89
+2024-03-01,3,2024,Books,North America,85.6,220,156
+2024-03-01,3,2024,Books,Europe,72.4,223,158
+2024-03-01,3,2024,Books,Asia Pacific,49.4,147,87
+2024-03-01,3,2024,Books,Latin America,18.1,48,26
+2024-03-01,3,2024,Sports,North America,114.2,299,179
+2024-03-01,3,2024,Sports,Europe,98.5,311,198
+2024-03-01,3,2024,Sports,Asia Pacific,75.2,239,177
+2024-03-01,3,2024,Sports,Latin America,25.5,65,38
+2024-03-01,3,2024,Beauty,North America,95.0,243,163
+2024-03-01,3,2024,Beauty,Europe,81.9,251,162
+2024-03-01,3,2024,Beauty,Asia Pacific,54.6,165,93
+2024-03-01,3,2024,Beauty,Latin America,21.9,68,48
+2024-03-01,3,2024,Toys,North America,81.7,227,132
+2024-03-01,3,2024,Toys,Europe,57.8,154,109
+2024-03-01,3,2024,Toys,Asia Pacific,43.4,117,73
+2024-03-01,3,2024,Toys,Latin America,17.2,51,29
+2024-04-01,4,2024,Electronics,North America,284.2,716,523
+2024-04-01,4,2024,Electronics,Europe,244.6,615,439
+2024-04-01,4,2024,Electronics,Asia Pacific,183.1,535,331
+2024-04-01,4,2024,Electronics,Latin America,64.9,162,89
+2024-04-01,4,2024,Home & Kitchen,North America,251.1,733,480
+2024-04-01,4,2024,Home & Kitchen,Europe,174.0,477,345
+2024-04-01,4,2024,Home & Kitchen,Asia Pacific,120.8,310,186
+2024-04-01,4,2024,Home & Kitchen,Latin America,41.3,107,71
+2024-04-01,4,2024,Books,North America,88.1,240,138
+2024-04-01,4,2024,Books,Europe,74.7,200,128
+2024-04-01,4,2024,Books,Asia Pacific,48.7,152,96
+2024-04-01,4,2024,Books,Latin America,21.4,59,38
+2024-04-01,4,2024,Sports,North America,141.0,340,216
+2024-04-01,4,2024,Sports,Europe,88.7,213,151
+2024-04-01,4,2024,Sports,Asia Pacific,63.1,175,121
+2024-04-01,4,2024,Sports,Latin America,28.5,75,49
+2024-04-01,4,2024,Beauty,North America,111.8,338,193
+2024-04-01,4,2024,Beauty,Europe,78.4,203,122
+2024-04-01,4,2024,Beauty,Asia Pacific,59.5,166,109
+2024-04-01,4,2024,Beauty,Latin America,23.7,74,47
+2024-04-01,4,2024,Toys,North America,82.7,231,150
+2024-04-01,4,2024,Toys,Europe,59.2,163,107
+2024-04-01,4,2024,Toys,Asia Pacific,39.7,125,86
+2024-04-01,4,2024,Toys,Latin America,17.8,56,33
+2024-05-01,5,2024,Electronics,North America,342.0,1078,774
+2024-05-01,5,2024,Electronics,Europe,209.6,523,333
+2024-05-01,5,2024,Electronics,Asia Pacific,146.5,379,213
+2024-05-01,5,2024,Electronics,Latin America,70.6,213,155
+2024-05-01,5,2024,Home & Kitchen,North America,207.1,615,419
+2024-05-01,5,2024,Home & Kitchen,Europe,144.4,448,333
+2024-05-01,5,2024,Home & Kitchen,Asia Pacific,105.8,334,210
+2024-05-01,5,2024,Home & Kitchen,Latin America,46.0,146,104
+2024-05-01,5,2024,Books,North America,89.6,245,160
+2024-05-01,5,2024,Books,Europe,66.5,170,104
+2024-05-01,5,2024,Books,Asia Pacific,53.2,128,84
+2024-05-01,5,2024,Books,Latin America,19.6,47,28
+2024-05-01,5,2024,Sports,North America,152.5,428,240
+2024-05-01,5,2024,Sports,Europe,117.9,357,265
+2024-05-01,5,2024,Sports,Asia Pacific,64.8,169,94
+2024-05-01,5,2024,Sports,Latin America,31.9,83,47
+2024-05-01,5,2024,Beauty,North America,112.8,352,251
+2024-05-01,5,2024,Beauty,Europe,75.0,188,137
+2024-05-01,5,2024,Beauty,Asia Pacific,59.0,174,98
+2024-05-01,5,2024,Beauty,Latin America,20.0,59,37
+2024-05-01,5,2024,Toys,North America,73.2,230,155
+2024-05-01,5,2024,Toys,Europe,64.1,158,113
+2024-05-01,5,2024,Toys,Asia Pacific,36.5,112,71
+2024-05-01,5,2024,Toys,Latin America,16.0,45,33
+2024-06-01,6,2024,Electronics,North America,327.5,819,536
+2024-06-01,6,2024,Electronics,Europe,227.1,564,328
+2024-06-01,6,2024,Electronics,Asia Pacific,152.3,390,238
+2024-06-01,6,2024,Electronics,Latin America,66.3,199,120
+2024-06-01,6,2024,Home & Kitchen,North America,242.0,615,380
+2024-06-01,6,2024,Home & Kitchen,Europe,144.9,376,207
+2024-06-01,6,2024,Home & Kitchen,Asia Pacific,129.5,367,215
+2024-06-01,6,2024,Home & Kitchen,Latin America,48.0,151,86
+2024-06-01,6,2024,Books,North America,114.5,314,203
+2024-06-01,6,2024,Books,Europe,80.5,218,141
+2024-06-01,6,2024,Books,Asia Pacific,55.2,175,108
+2024-06-01,6,2024,Books,Latin America,23.0,68,46
+2024-06-01,6,2024,Sports,North America,149.6,400,224
+2024-06-01,6,2024,Sports,Europe,95.8,235,164
+2024-06-01,6,2024,Sports,Asia Pacific,71.4,180,102
+2024-06-01,6,2024,Sports,Latin America,34.0,105,71
+2024-06-01,6,2024,Beauty,North America,113.1,293,178
+2024-06-01,6,2024,Beauty,Europe,83.7,211,134
+2024-06-01,6,2024,Beauty,Asia Pacific,56.2,178,132
+2024-06-01,6,2024,Beauty,Latin America,24.5,63,46
+2024-06-01,6,2024,Toys,North America,83.0,222,122
+2024-06-01,6,2024,Toys,Europe,59.4,165,107
+2024-06-01,6,2024,Toys,Asia Pacific,40.1,112,61
+2024-06-01,6,2024,Toys,Latin America,16.4,40,25
+2024-07-01,7,2024,Electronics,North America,303.6,734,448
+2024-07-01,7,2024,Electronics,Europe,226.6,649,425
+2024-07-01,7,2024,Electronics,Asia Pacific,189.2,553,383
+2024-07-01,7,2024,Electronics,Latin America,78.4,212,130
+2024-07-01,7,2024,Home & Kitchen,North America,277.2,698,484
+2024-07-01,7,2024,Home & Kitchen,Europe,176.7,430,308
+2024-07-01,7,2024,Home & Kitchen,Asia Pacific,135.2,392,273
+2024-07-01,7,2024,Home & Kitchen,Latin America,52.9,132,86
+2024-07-01,7,2024,Books,North America,104.6,320,227
+2024-07-01,7,2024,Books,Europe,80.3,230,167
+2024-07-01,7,2024,Books,Asia Pacific,55.1,162,96
+2024-07-01,7,2024,Books,Latin America,18.0,45,27
+2024-07-01,7,2024,Sports,North America,135.7,416,275
+2024-07-01,7,2024,Sports,Europe,111.9,324,222
+2024-07-01,7,2024,Sports,Asia Pacific,76.8,184,130
+2024-07-01,7,2024,Sports,Latin America,33.1,92,60
+2024-07-01,7,2024,Beauty,North America,126.8,311,216
+2024-07-01,7,2024,Beauty,Europe,78.4,192,115
+2024-07-01,7,2024,Beauty,Asia Pacific,64.7,165,115
+2024-07-01,7,2024,Beauty,Latin America,27.7,77,48
+2024-07-01,7,2024,Toys,North America,87.4,257,180
+2024-07-01,7,2024,Toys,Europe,63.8,185,104
+2024-07-01,7,2024,Toys,Asia Pacific,39.3,102,71
+2024-07-01,7,2024,Toys,Latin America,16.6,47,25
+2024-08-01,8,2024,Electronics,North America,291.7,762,521
+2024-08-01,8,2024,Electronics,Europe,248.8,731,444
+2024-08-01,8,2024,Electronics,Asia Pacific,168.8,467,300
+2024-08-01,8,2024,Electronics,Latin America,59.5,185,109
+2024-08-01,8,2024,Home & Kitchen,North America,264.1,831,459
+2024-08-01,8,2024,Home & Kitchen,Europe,159.7,488,362
+2024-08-01,8,2024,Home & Kitchen,Asia Pacific,113.7,297,175
+2024-08-01,8,2024,Home & Kitchen,Latin America,52.4,134,89
+2024-08-01,8,2024,Books,North America,89.0,250,185
+2024-08-01,8,2024,Books,Europe,62.1,189,123
+2024-08-01,8,2024,Books,Asia Pacific,55.7,165,98
+2024-08-01,8,2024,Books,Latin America,22.3,62,34
+2024-08-01,8,2024,Sports,North America,125.1,349,223
+2024-08-01,8,2024,Sports,Europe,96.8,243,150
+2024-08-01,8,2024,Sports,Asia Pacific,69.4,213,117
+2024-08-01,8,2024,Sports,Latin America,31.6,97,55
+2024-08-01,8,2024,Beauty,North America,130.3,387,282
+2024-08-01,8,2024,Beauty,Europe,75.8,204,128
+2024-08-01,8,2024,Beauty,Asia Pacific,66.4,190,118
+2024-08-01,8,2024,Beauty,Latin America,22.6,59,33
+2024-08-01,8,2024,Toys,North America,74.0,227,137
+2024-08-01,8,2024,Toys,Europe,66.5,172,103
+2024-08-01,8,2024,Toys,Asia Pacific,42.1,107,66
+2024-08-01,8,2024,Toys,Latin America,19.1,59,42
+2024-09-01,9,2024,Electronics,North America,332.6,1041,768
+2024-09-01,9,2024,Electronics,Europe,227.3,676,378
+2024-09-01,9,2024,Electronics,Asia Pacific,171.2,472,330
+2024-09-01,9,2024,Electronics,Latin America,66.8,175,97
+2024-09-01,9,2024,Home & Kitchen,North America,248.2,620,399
+2024-09-01,9,2024,Home & Kitchen,Europe,146.8,387,270
+2024-09-01,9,2024,Home & Kitchen,Asia Pacific,125.7,327,222
+2024-09-01,9,2024,Home & Kitchen,Latin America,41.4,117,73
+2024-09-01,9,2024,Books,North America,85.5,216,127
+2024-09-01,9,2024,Books,Europe,74.6,208,123
+2024-09-01,9,2024,Books,Asia Pacific,53.3,170,108
+2024-09-01,9,2024,Books,Latin America,16.9,43,24
+2024-09-01,9,2024,Sports,North America,133.4,329,196
+2024-09-01,9,2024,Sports,Europe,90.9,259,188
+2024-09-01,9,2024,Sports,Asia Pacific,75.2,205,129
+2024-09-01,9,2024,Sports,Latin America,28.2,76,46
+2024-09-01,9,2024,Beauty,North America,95.5,250,185
+2024-09-01,9,2024,Beauty,Europe,68.4,191,129
+2024-09-01,9,2024,Beauty,Asia Pacific,61.0,156,94
+2024-09-01,9,2024,Beauty,Latin America,20.3,55,35
+2024-09-01,9,2024,Toys,North America,90.9,279,202
+2024-09-01,9,2024,Toys,Europe,48.0,116,80
+2024-09-01,9,2024,Toys,Asia Pacific,44.7,124,82
+2024-09-01,9,2024,Toys,Latin America,13.6,36,26
+2024-10-01,10,2024,Electronics,North America,386.4,1191,886
+2024-10-01,10,2024,Electronics,Europe,227.8,566,328
+2024-10-01,10,2024,Electronics,Asia Pacific,177.2,521,384
+2024-10-01,10,2024,Electronics,Latin America,75.1,219,153
+2024-10-01,10,2024,Home & Kitchen,North America,238.9,678,378
+2024-10-01,10,2024,Home & Kitchen,Europe,183.7,475,348
+2024-10-01,10,2024,Home & Kitchen,Asia Pacific,126.3,333,191
+2024-10-01,10,2024,Home & Kitchen,Latin America,44.8,130,89
+2024-10-01,10,2024,Books,North America,92.3,226,148
+2024-10-01,10,2024,Books,Europe,75.0,203,120
+2024-10-01,10,2024,Books,Asia Pacific,53.8,129,78
+2024-10-01,10,2024,Books,Latin America,20.7,65,44
+2024-10-01,10,2024,Sports,North America,171.7,477,284
+2024-10-01,10,2024,Sports,Europe,99.6,315,217
+2024-10-01,10,2024,Sports,Asia Pacific,72.6,175,113
+2024-10-01,10,2024,Sports,Latin America,32.4,88,52
+2024-10-01,10,2024,Beauty,North America,127.1,399,237
+2024-10-01,10,2024,Beauty,Europe,72.9,194,123
+2024-10-01,10,2024,Beauty,Asia Pacific,63.8,163,115
+2024-10-01,10,2024,Beauty,Latin America,25.9,72,42
+2024-10-01,10,2024,Toys,North America,100.4,265,189
+2024-10-01,10,2024,Toys,Europe,56.6,145,101
+2024-10-01,10,2024,Toys,Asia Pacific,41.3,130,84
+2024-10-01,10,2024,Toys,Latin America,15.9,41,25
+2024-11-01,11,2024,Electronics,North America,436.6,1379,798
+2024-11-01,11,2024,Electronics,Europe,281.9,724,539
+2024-11-01,11,2024,Electronics,Asia Pacific,185.7,453,254
+2024-11-01,11,2024,Electronics,Latin America,80.5,251,182
+2024-11-01,11,2024,Home & Kitchen,North America,306.0,978,720
+2024-11-01,11,2024,Home & Kitchen,Europe,189.9,483,356
+2024-11-01,11,2024,Home & Kitchen,Asia Pacific,153.6,372,254
+2024-11-01,11,2024,Home & Kitchen,Latin America,55.1,148,91
+2024-11-01,11,2024,Books,North America,111.2,267,161
+2024-11-01,11,2024,Books,Europe,82.6,261,150
+2024-11-01,11,2024,Books,Asia Pacific,70.4,180,111
+2024-11-01,11,2024,Books,Latin America,27.1,82,52
+2024-11-01,11,2024,Sports,North America,157.4,437,272
+2024-11-01,11,2024,Sports,Europe,143.4,366,227
+2024-11-01,11,2024,Sports,Asia Pacific,101.8,246,155
+2024-11-01,11,2024,Sports,Latin America,39.8,119,66
+2024-11-01,11,2024,Beauty,North America,123.0,301,220
+2024-11-01,11,2024,Beauty,Europe,92.8,278,202
+2024-11-01,11,2024,Beauty,Asia Pacific,68.0,178,131
+2024-11-01,11,2024,Beauty,Latin America,29.6,77,53
+2024-11-01,11,2024,Toys,North America,98.3,257,141
+2024-11-01,11,2024,Toys,Europe,78.4,245,165
+2024-11-01,11,2024,Toys,Asia Pacific,58.9,142,84
+2024-11-01,11,2024,Toys,Latin America,20.6,65,48
+2024-12-01,12,2024,Electronics,North America,479.1,1246,792
+2024-12-01,12,2024,Electronics,Europe,346.5,1088,638
+2024-12-01,12,2024,Electronics,Asia Pacific,270.5,809,578
+2024-12-01,12,2024,Electronics,Latin America,107.3,309,190
+2024-12-01,12,2024,Home & Kitchen,North America,322.5,867,612
+2024-12-01,12,2024,Home & Kitchen,Europe,208.6,533,373
+2024-12-01,12,2024,Home & Kitchen,Asia Pacific,157.6,386,214
+2024-12-01,12,2024,Home & Kitchen,Latin America,69.3,184,137
+2024-12-01,12,2024,Books,North America,164.2,523,315
+2024-12-01,12,2024,Books,Europe,90.2,223,144
+2024-12-01,12,2024,Books,Asia Pacific,78.3,215,128
+2024-12-01,12,2024,Books,Latin America,28.7,83,56
+2024-12-01,12,2024,Sports,North America,233.1,717,489
+2024-12-01,12,2024,Sports,Europe,134.6,413,251
+2024-12-01,12,2024,Sports,Asia Pacific,110.7,298,207
+2024-12-01,12,2024,Sports,Latin America,39.5,102,61
+2024-12-01,12,2024,Beauty,North America,152.8,474,315
+2024-12-01,12,2024,Beauty,Europe,113.1,307,229
+2024-12-01,12,2024,Beauty,Asia Pacific,85.4,220,156
+2024-12-01,12,2024,Beauty,Latin America,35.7,113,64
+2024-12-01,12,2024,Toys,North America,123.1,376,270
+2024-12-01,12,2024,Toys,Europe,97.6,237,144
+2024-12-01,12,2024,Toys,Asia Pacific,54.9,140,104
+2024-12-01,12,2024,Toys,Latin America,25.4,79,49
