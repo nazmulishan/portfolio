@@ -41,7 +41,7 @@ Demonstrates SUMIF, SUMIFS, COUNTA, profit-margin calc, AOV calc, XLOOKUP, neste
 - **North America accounts for ~51%** of revenue, Europe second at ~25%
 - **Average order value: $221**, with electronics orders averaging ~3× book orders
 
-## Example formulas (live in the workbook)
+## Example formulas
 
 Revenue by category:
 ```
