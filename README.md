@@ -21,7 +21,7 @@ Self-contained Excel workbook with 500 transactions, 3 sheets (Data, Dashboard, 
 
 ## About me
 
-Master's graduate in Management Accounting from the University of Southern Denmark (SDU), based in Copenhagen. Looking for Junior Financial Analyst, Reporting Analyst, Junior Auditor, or Business Analyst roles in Denmark.
+Master's graduate in Management Accounting from the University of Southern Denmark (SDU), based in Copenhagen.
 
 - LinkedIn: [linkedin.com/in/nazmul-islam-ishan-b707b8171](https://www.linkedin.com/in/nazmul-islam-ishan-b707b8171)
 - Email: nazmulislamishan7@gmail.com
