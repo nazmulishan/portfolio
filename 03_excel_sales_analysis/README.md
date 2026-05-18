@@ -65,24 +65,6 @@ Average order value:
 
 Top 5 sales rep table uses RANK.EQ to identify highest revenue contributors.
 
-## Files
-
-```
-.
-├── README.md                              this file (with embedded dashboard preview)
-├── Sales_Analysis_Dashboard.xlsx          the workbook with 3 sheets and 3 charts
-├── data/
-│   └── sales_transactions_2024.csv        the same data as the workbook's Sales_Data sheet
-└── images/
-    └── dashboard_preview.png              what the dashboard looks like
-```
-
-## How to open
-
-1. Download `Sales_Analysis_Dashboard.xlsx`
-2. Open in Microsoft Excel (2019, 2021, 365) or LibreOffice Calc
-3. Click the **Dashboard** sheet at the bottom
-4. Click the **Formulas_Showcase** sheet to see all formulas with explanations
 
 ## Author
 
