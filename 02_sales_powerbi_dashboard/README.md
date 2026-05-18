@@ -22,7 +22,7 @@ An interactive Power BI dashboard analysing 2024 Amazon sales by category, regio
 - 6 categories (Electronics, Home & Kitchen, Books, Sports, Beauty, Toys)
 - 4 regions (North America, Europe, Asia Pacific, Latin America)
 - Monthly granularity, full 12 months
-- File: `data/amazon_sales_2024.csv`
+
 
 The dataset is generated to mirror real Amazon-scale sales patterns (seasonality peaks in November and December, electronics as top category, North America as largest region). For real Amazon data analysis, the Kaggle Amazon Reviews 2023 dataset is a drop-in replacement.
 
