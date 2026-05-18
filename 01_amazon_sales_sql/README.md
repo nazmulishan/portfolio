@@ -161,15 +161,7 @@ Running cumulative revenue, rank within segment (RANK/DENSE_RANK), LAG/LEAD on o
 | `order_items` | order_id, product_id, quantity, unit_price_paid, discount_pct, line_revenue |
 | `returns` | return_id, order_id, return_date, return_reason |
 
-## How to run
 
-```
-psql -d amazon -f code/00_schema_and_load.sql
-psql -d amazon -f code/01_basic_to_intermediate.sql
-psql -d amazon -f code/02_advanced_queries.sql
-```
-
-For SQLite: change `DATE_TRUNC` to `strftime`, `NTILE` to `ROW_NUMBER` substitution, replace `::numeric` casts.
 
 ## Author
 
