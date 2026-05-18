@@ -34,4 +34,8 @@ The dataset is generated to mirror real Amazon-scale sales patterns (seasonality
 4. **North America accounts for ~52%** of revenue; Europe is second at ~24%
 5. **Average order value: $361** — consistent with Amazon's premium-product mix
 
+## Author
+
+Md Nazmul Islam Ishan
+linkedin.com/in/nazmul-islam-ishan-b707b8171
 
