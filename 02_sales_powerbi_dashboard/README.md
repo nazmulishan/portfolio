@@ -35,4 +35,3 @@ The dataset is generated to mirror real Amazon-scale sales patterns (seasonality
 5. **Average order value: $361** — consistent with Amazon's premium-product mix
 
 
-linkedin.com/in/nazmul-islam-ishan-b707b8171
